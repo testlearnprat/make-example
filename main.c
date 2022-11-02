@@ -7,6 +7,6 @@ void main()
                 printf("\nCalling hello function");
                 hello();
                 printf("\nCalling add function");
-                add(3,5);
+                add(5,5);
                 printf("\nBack in main.c\n");
 }
