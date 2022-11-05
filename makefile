@@ -1,4 +1,4 @@
-final: main. add. hello.
+final: main.o add.o hello.o
 	gcc main.o add.o hello.o -o final
 	
 main.o: main.c header.h
